@@ -1,0 +1,251 @@
+
+
+Version:	3.14
+CmdLine:	C:\Pl2\New Folder\GMS\GMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Pl2\New Folder\GMS\.
+Java min ver:	1.006.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\Pl2\New Folder\GMS\GMS.exe"
+Args length:	36/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Pl2\New Folder\GMS\GMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Pl2\New Folder\GMS\.
+Java min ver:	1.006.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Main class:	gms.GMS
+Add classpath:	lib\org-netbeans-modules-java-j2seproject-copylibstask.jar
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\mysql-connector-java-8.0.22.jar
+Add classpath:	lib\mysql-connector-java-8.0.22\
+Add classpath:	lib\commons-lang3-3.12.0-javadoc.jar
+Add classpath:	lib\commons-lang3-3.12.0-sources.jar
+Add classpath:	lib\commons-lang3-3.12.0-test-sources.jar
+Add classpath:	lib\commons-lang3-3.12.0-tests.jar
+Add classpath:	lib\commons-lang3-3.12.0.jar
+Add classpath:	lib\jcalendar-1.4.jar
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	-classpath "C:\Pl2\New Folder\GMS\GMS.exe;lib\org-netbeans-modules-java-j2seproject-copylibstask.jar;lib\AbsoluteLayout.jar;lib\mysql-connector-java-8.0.22.jar;lib\mysql-connector-java-8.0.22\;lib\commons-lang3-3.12.0-javadoc.jar;lib\commons-lang3-3.12.0-sources.jar;lib\commons-lang3-3.12.0-test-sources.jar;lib\commons-lang3-3.12.0-tests.jar;lib\commons-lang3-3.12.0.jar;lib\jcalendar-1.4.jar" gms.GMS
+Args length:	403/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Pl2\New Folder\GMS\GMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Pl2\New Folder\GMS\.
+Java min ver:	1.006.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Main class:	gms.GMS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\org-netbeans-modules-java-j2seproject-copylibstask.jar
+Add classpath:	lib\mysql-connector-java-8.0.22.jar
+Add classpath:	lib\mysql-connector-java-8.0.22\
+Add classpath:	lib\commons-lang3-3.12.0-javadoc.jar
+Add classpath:	lib\commons-lang3-3.12.0-sources.jar
+Add classpath:	lib\commons-lang3-3.12.0-test-sources.jar
+Add classpath:	lib\commons-lang3-3.12.0-tests.jar
+Add classpath:	lib\commons-lang3-3.12.0.jar
+Add classpath:	lib\jcalendar-1.4.jar
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	-classpath "C:\Pl2\New Folder\GMS\GMS.exe;lib\AbsoluteLayout.jar;lib\org-netbeans-modules-java-j2seproject-copylibstask.jar;lib\mysql-connector-java-8.0.22.jar;lib\mysql-connector-java-8.0.22\;lib\commons-lang3-3.12.0-javadoc.jar;lib\commons-lang3-3.12.0-sources.jar;lib\commons-lang3-3.12.0-test-sources.jar;lib\commons-lang3-3.12.0-tests.jar;lib\commons-lang3-3.12.0.jar;lib\jcalendar-1.4.jar" gms.GMS
+Args length:	403/32768 chars
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code
